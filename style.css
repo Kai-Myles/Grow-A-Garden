@@ -1,0 +1,28 @@
+#startButton {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 20px;
+    font-size: 24px;
+    background-color: #4CAF50; /* Green */
+    color: rgb(253, 253, 253);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#Header {
+    position: absolute;
+    top: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    color: #333;
+    font: bold 24px Arial, sans-serif;
+}
+
+body {
+    background-color: #57ff65;
+    font-family: Arial, sans-serif;
+    background-image: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c6d9faf0-76b9-41a9-8e7d-20d58666b9b8/dg48ny1-110b2542-94e1-44d6-bf0b-760cf294a27d.png/v1/fill/w_894,h_894/stud_texture_from_roblox_by_20thcenturyfoxroblox_dg48ny1-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAyNCIsInBhdGgiOiJcL2ZcL2M2ZDlmYWYwLTc2YjktNDFhOS04ZTdkLTIwZDU4NjY2YjliOFwvZGc0OG55MS0xMTBiMjU0Mi05NGUxLTQ0ZDYtYmYwYi03NjBjZjI5NGEyN2QucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.jlJcDGlgMWSc9Mr3j12tvPf9XcRfpHzT8gUUZJkATzY');
+}
